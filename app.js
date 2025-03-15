@@ -7,3 +7,8 @@ function adicionarAmigo{
          amigos.push();
     }
 }
+function limparCampo{
+    inserirNome = document.querySelector('input');
+    inserirNome.value = "";
+
+}
