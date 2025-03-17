@@ -17,7 +17,7 @@
 
 body {
     height: 100vh;
-    background-color: var(--color-primary);
+    background-color: brown;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -90,6 +90,7 @@ body {
 .button-container {
     width: 300px;
     justify-content: center;
+    display: flex;
 }
 
 /* Estilos de entrada de texto */
@@ -116,8 +117,8 @@ button {
 }
 
 .button-add {
-    background-color: var(--color-tertiary);
-    color: var(--color-text);
+    background-color: rgb(163, 214, 248);
+    color: black;
     border-radius: 0 25px 25px 0;
 }
 
@@ -136,7 +137,7 @@ ul {
 
 .result-list {
     margin-top: 15px;
-    color: #05DF05;
+    color: rgb(109, 185, 236);
     font-size: 22px;
     font-weight: bold;
     text-align: center;
@@ -149,8 +150,9 @@ ul {
     width: 100%;
     padding: 10px 40px;
     color: var(--color-white);
-    background-color: var(--color-button);
+    background-color: rgba(230, 27, 27, 0.925);
     font-size: 16px;
+    
 }
 
 .button-draw img {
