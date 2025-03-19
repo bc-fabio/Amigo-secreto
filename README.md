@@ -12,6 +12,6 @@ Projeto que tem como função principal realizar sorteio de nomes em forma de um
 
 ## Vídeo Demonstrativo
 
-<video src="Amigo Secreto - Google Chrome 2025-03-18 19-16-52.mp4" controls>
-Seu navegador não suporta o elemento <code>video</code>.
-</video>
+
+https://github.com/user-attachments/assets/af47319e-6353-44dc-a0d4-25a35b9617e9
+
